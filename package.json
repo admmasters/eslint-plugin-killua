@@ -1,0 +1,21 @@
+{
+  "name": "eslint-plugin-killua",
+  "version": "1.0.0",
+  "description": "ESLint configuration used by Killua App Template",
+  "files": [
+    "config.js",
+    "index.js",
+    "plugins.js"
+  ],
+  "dependencies": {
+    "babel-eslint": "^7.2.1",
+    "eslint-plugin-flowtype": "^2.30.4",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.3",
+    "eslint-plugin-react-app": "^1.0.2"
+  },
+  "peerDependencies": {
+    "eslint": "^3.18.0"
+  }
+}

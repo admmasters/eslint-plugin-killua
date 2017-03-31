@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "ESLint configuration used by Killua App Template",
   "files": [
+    "base.js",
     "config.js",
     "index.js",
     "plugins.js"
